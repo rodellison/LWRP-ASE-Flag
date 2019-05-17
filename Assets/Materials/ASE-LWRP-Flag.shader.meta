@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6e4ef3494b5fa854a9d3454a8951688c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _FlagTexture: {fileID: 2800000, guid: b6a205d474915ee428aeb9b9a119dd09, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
